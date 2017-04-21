@@ -7,7 +7,7 @@ This gem includes a generator for [SimpleForm](https://github.com/plataformatec/
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'simple_form-materialize'
+gem 'simple_form_materialize'
 ```
 
 And then execute:
